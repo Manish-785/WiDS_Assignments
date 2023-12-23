@@ -6,4 +6,4 @@ This is where I'll be sharing my solutions to the various assignments we're work
 What's Inside?
 Assignments: The heart of the project. Check out each assignment's folder for specific instructions and requirements. Dive in, and let's tackle these challenges together!
 
-Solutions: Here's where the magic happens. I've organized my solutions neatly, including code files, documentation.
+Solutions: The good stuff! I've included my solutions directly in the main.py file within each assignment folder. You can find the code, comments, and everything you need right there.
